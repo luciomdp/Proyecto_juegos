@@ -1,9 +1,24 @@
-# Proyecto_juegos
-Repositorio dedicado a subir proyectos personales de programacion en JAVA orientado a juegos, con el objetivo de practicar y solidificar conceptos.
-Pong --> el clasico juego de pong para dos personas
-Snake --> el clasico juego de la vivora de los nokia
-Ta te ti --> clasico juego para dos personas
-Que no te coman --> Juego de elaboracion personal, creado en base a mi imaginacion basado en java:
-el objetivo del juego es alcanzar el cuadrado verde (que tiene igual velocidad que uno) 20 veces sin chocar con los cuadrados rojos
-(cuya velocidad inicial es igual a la de uno, pero es incremental a medida que vas sumando puntos (cada 5 puntos se incrementa))
-Inicialmente se tienen 3 oportunidades o vidas, pero se pueden ir incrementando al alcanzar 5 puntos.
+# MyGamesProyect
+
+This repository contains personal Java-based game projects aimed at practicing and reinforcing programming concepts through game development.
+
+## Games Included
+
+**Pong**  
+Classic two-player Pong game.
+
+**Snake**  
+A remake of the classic Nokia snake game.
+
+**Tic-Tac-Toe (Ta te ti)**  
+Traditional two-player grid-based game.
+
+**Que no te coman**  
+Original game idea. The player must reach the green square 20 times without colliding with red squares:
+- Green square has the same speed as the player.
+- Red squares start at equal speed but increase it every 5 points.
+- The player starts with 3 lives and gains extra lives every 5 points.
+
+## Purpose
+
+To consolidate object-oriented programming, game logic, and user interaction skills in Java through hands-on development of simple and custom games.
